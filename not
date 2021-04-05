@@ -1,0 +1,29 @@
+Alien
+
+
+Web Browser
+
+
+Rest API -> Http -> Get, Post, Patch, Delete
+
+Express
+
+Mongodb
+
+GET : http://localhost:9000/aliens
+GET : http://localhost:9000/aliens/<id>
+POST : http://localhost:9000/aliens
+PATCH : http://localhost:9000/aliens/<id>
+
+GET : http://localhost:9000/books
+
+
+RDBMS - MONGODB
+DATABASE - DATABASE
+TABELAS - COLEÇOES
+LINHAS - DOCUMENTOS
+COLUNAS - CAMPOS
+
+M - MODELO - SCHEMA
+V - VISUALIZAÇÃO - UI
+C - CONTROLE - ROUTER
